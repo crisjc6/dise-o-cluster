@@ -94,6 +94,9 @@ Su principal objetivo es ser intermediarios en la comunicaciones facilitar en tr
 
 La aplicacion necesaria para el procesamiento de señales sera una aplicaicon de tiempo real, por lo que el diseño del cluster incluira un cluster de tipo de alta disponibilidad y escalabilidad para que se puedan agrear nuevos cluster si el trabajo aumentara.
 
+
+
+
 <a name="id8"></a>
 # JUSTIFICACION
 
@@ -101,10 +104,20 @@ La razon por la que se deberia implementar un cluster que permita el procesamien
 
 El procesamiento de señales digitales ha sido una tarea que se distingue por su alto requerimiento de procesamiento de datos, lo que lleva al diseño de la implementacion de un sistema cluster.
 
+Las diferentes aplicaciones que se puede ejecutar a gran escale en el procesamiento de las señales digitales como:
+
+* Procesamiento de audio digital
+* Procesamiento de voz digital
+* Procesamiento de imagenes digitales 
+* Procesamiento de video digital
+* Procesamiendo de datos digitales
+
 <a name="id9"></a>
 # CONCLUSIOENS Y RECOMENDACIONES
 
-* 
+*  Se pudo comprobar que un efecto cluster puede reducir el tiempo de ejecucion en el procesamiento de las señales digitales de cualquier aplicacion, aumentando el rendimiento de las maquinas maximizando la utilizacion de los recursos disponibles.
+
+* La evolucion de los computadores paralelos ha sido clara en varias direcciones, una de las cuales es la utilizacion de hardaware de computo estandar. En este sentido los microprocesadores de uso masivo en los computadores de bajo costo como las estaciones de trabajo y PC´s son utilzados en las implementaciones de clusters 
 
 <a name="id10"></a>
 # ENLACES
