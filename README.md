@@ -117,6 +117,10 @@ Las diferentes aplicaciones que se puede ejecutar a gran escale en el procesamie
 * Procesamiento de datos digitales
 
 
+El procesamiento digital de señales (PDS) hasta la fecha se ha realizado con sistemas de computadores en su mayoría de un solo procesador. El tipo de procesador define la forma en que el algoritmo del procesamiento de señales digitales (PDS). Estos procesos definidos por la cantidad de núcleos de procesador y estos en su mayoría son altamente realizable sen paralelo. Todo esto permitiendo acelerar los procesos de las tareas y una mayor eficiencia.
+
+
+
 ## Arquitectura de comunicación
 
 ![image](https://user-images.githubusercontent.com/50051312/59375910-bcecab00-8d14-11e9-82b9-93fda8cb36b8.png)
