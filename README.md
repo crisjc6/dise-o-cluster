@@ -38,7 +38,14 @@
 * Procesamiento de señales digitales
 
 
-Implementar un diseño cluster para la industria de los circuitos electrónicos
+**Implementar un diseño cluster para la industria de los circuitos electrónicos**
+
+#### Señales digitales
+dentro de los circuitos eléctricos se tiene el procesamiento de señales digitales.
+
+Son mas económicos que los circuitos análogo, además existe un poco mas de seguridad.
+
+Permite realizar tareas muy complejas conocidas como señales de alta fidelidad.
 
 **Diseño de cluster para el procesamiento de señales digitales en la electrónica**
 
@@ -51,13 +58,6 @@ Una vez elegido el modelo de cluster se procede a especificar las característic
 ![image](https://user-images.githubusercontent.com/50051312/59373982-6a10f480-8d10-11e9-9f01-9f079d12646a.png)
 
 
-
-### Señales digitales
-dentro de los circuitos eléctricos se tiene el procesamiento de señales digitales.
-
-Son mas económicos que los circuitos análogo, además existe un poco mas de seguridad.
-
-Permite realizar tareas muy complejas conocidas como señales de alta fidelidad.
 
 
 <a name="id2"></a>
