@@ -68,6 +68,25 @@ Los sistemas operativos a utilizar deben soportar el manejo de hilos, open sours
 <a name="id7"></a>
 # AMBIENTE DE PROGRAMACION
 
+Son los que permiten que se pueda hacer uso los diferentes recursos con los que se cuenta dentro del cluster, entre estos podemos mencionar uno muy importante como CPU, la memoria los datos.
+
+Una de las manera de referenciar el rendimiento se relaciona con un termino nuevo denominado FLOPS (operaciones en como flotante por segundo). Esta es una medida comuún cuando se habla del desempeño computacional, especialmente en el uso de operaciones cientificas, que requieren de gran consumo de recursos.
+
+<a name="id8"></a>
+# APLICACIONES 
+Por lo general es el software que permite la comunicacion entre aplicaciones, hardware u otros sistemas operativos.
+Su principal objetivo es ser intermediarios en la comunicaciones facilitar en trabajo de los desarrolladores cuando se hace necesario generar   direfentes conexiones entre los sistemas.
+
+La aplicacion necesaria para el procesamiento de señales sera una aplicaicon de tiempo real 
+
+<a name="id9"></a>
+# JUSTIFICACION
+
+La razon por la que se deberia implementar un cluster que permita el procesamiento de señales digitales dentro de la industria de los circuitos electronicos es la siguiente:
+
+
+
+
 
 
 https://es.slideshare.net/Doyler83/componentes-de-un-clster
