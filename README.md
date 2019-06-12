@@ -22,9 +22,17 @@ Implementar un diseño cluster para la insdustria de los circuitos electronicos
   
 * [Conclusiones y Recomendaciones.](#id9)
 
+* [Enlaces.](#id10)
+
 <a name="id1"></a>
 
 # TEMA 
+
+### Palabra claves 
+* Computo paralelo
+* Cluster
+* Procesamiento de señales digitales
+
 
 Implementar un diseño cluster para la insdustria de los circuitos electronicos
 
@@ -32,14 +40,19 @@ Implementar un diseño cluster para la insdustria de los circuitos electronicos
 
 El primer paso para el diseño de una solucion cluster es escoger el tipo de cluster que vamos a necesitar para el caso del procesamiento de la señales digitales se necesitara que sea en tiempo real y aparte que sea escalable permitiendo incluir  mas hadware sin que afecte el prosesamiento del cluster esto si el trabajo de procesamiento aumenta. 
 
-### Palabra claves 
-* Computo paralelo
-* Cluster
-* Procesamiento de señales digitales
+**OpenMosix**: La idea de este modelo de cluster es que la distribucion de tarea las realizar de forma dinamica conforme se van creando las tareas. Cuando un nodo esta demaciado cargado las tareas que se estan ejecutando pueden migrar a cualquier otro nodo del cluster sin que el proceso sufra mayores cambuios. Ademas este modeli funciona a nivel del kernel por lo tanto puede conseguir todas la información 
+
+Una vez elegido el modelo de cluster se procede a especificar las caracteristicas de cada nodo 
+
+![image](https://user-images.githubusercontent.com/50051312/59373982-6a10f480-8d10-11e9-9f01-9f079d12646a.png)
+
+
 
 ### Señales digitales
 dentro de los circuitos electricos se tiene el procesamiento de señales digitales.
-son mas economicos que los circuitos analogo, ademas existe un poco mas de seguridad.
+
+Son mas economicos que los circuitos analogo, ademas existe un poco mas de seguridad.
+
 Permite realizar tareas muy complejas conocidas como señales de alta fidelidad.
 
 
@@ -88,9 +101,13 @@ La razon por la que se deberia implementar un cluster que permita el procesamien
 
 El procesamiento de señales digitales ha sido una tarea que se distingue por su alto requerimiento de procesamiento de datos, lo que lleva al diseño de la implementacion de un sistema cluster.
 
+<a name="id9"></a>
+# CONCLUSIOENS Y RECOMENDACIONES
 
+* 
 
-
+<a name="id10"></a>
+# ENLACES
 
 
 https://es.slideshare.net/Doyler83/componentes-de-un-clster
