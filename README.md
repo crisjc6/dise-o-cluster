@@ -36,7 +36,20 @@ Diseño de cluster para el procesamiento de señales digitales en la electronica
 * Procesamiento de señales digitales
 
 ### Señales digitales
-dentro de los circuitos electricos se tiene el procesamiento de señales digitales
+dentro de los circuitos electricos se tiene el procesamiento de señales digitales.
+son mas economicos que los circuitos analogo, ademas existe un poco mas de seguridad.
+Permite realizar tareas muy complejas conocidas como señales de alta fidelidad.
+
+
+<a name="id2"></a>
+# NODOS
+
+Nodo conocido como cualquier servidor que puede formar parte del cluster tienes que tener las mismas capacidades y caracteristicas a nivel de hardware.
+
+<a name="id3"></a>
+# CONEXIONES DE RED
+
+
 
 https://es.slideshare.net/Doyler83/componentes-de-un-clster
 
