@@ -1,6 +1,10 @@
 # Diseño de cluster
 
-Implementar un diseño cluster para la industria de los circuitos electrónicos
+**By** Cristhian Jumbo
+
+**Multiprocesamiento y arquitectura alternativas**
+
+#### Implementar un diseño cluster para la industria de los circuitos electrónicos
 
 # CONTENIDO
 
