@@ -28,7 +28,9 @@ Implementar un diseño cluster para la insdustria de los circuitos electronicos
 
 Implementar un diseño cluster para la insdustria de los circuitos electronicos
 
-Diseño de cluster para el procesamiento de señales digitales en la electronica
+**Diseño de cluster para el procesamiento de señales digitales en la electronica**
+
+El primer paso para el diseño de una solucion cluster es escoger el tipo de cluster que vamos a necesitar para el caso del procesamiento de la señales digitales se necesitara que sea en tiempo real y aparte que sea escalable permitiendo incluir  mas hadware sin que afecte el prosesamiento del cluster esto si el trabajo de procesamiento aumenta. 
 
 ### Palabra claves 
 * Computo paralelo
@@ -59,30 +61,32 @@ Este puede interno o externo con las diferentes tecnologias.
 * SATA de hasta 600 M/s
 * SCSI de hasta 640 M/s
 
-<a name="id6"></a>
+<a name="id5"></a>
 # SISTEMAS OPERATIVOS
 
 Los sistemas operativos a utilizar deben soportar el manejo de hilos, open sourse para este diseño de cluster se podra elegir entre las distribuiones de linux ya que permite tener un soporte multiproceso y multiusuario. para gestion en GNU/linux existe **conga** es una herramienta que me permite realizar la gestion de los nodos del cluster.
 
 
-<a name="id7"></a>
+<a name="id6"></a>
 # AMBIENTE DE PROGRAMACION
 
 Son los que permiten que se pueda hacer uso los diferentes recursos con los que se cuenta dentro del cluster, entre estos podemos mencionar uno muy importante como CPU, la memoria los datos.
 
 Una de las manera de referenciar el rendimiento se relaciona con un termino nuevo denominado FLOPS (operaciones en como flotante por segundo). Esta es una medida comuún cuando se habla del desempeño computacional, especialmente en el uso de operaciones cientificas, que requieren de gran consumo de recursos.
 
-<a name="id8"></a>
+<a name="id7"></a>
 # APLICACIONES 
 Por lo general es el software que permite la comunicacion entre aplicaciones, hardware u otros sistemas operativos.
 Su principal objetivo es ser intermediarios en la comunicaciones facilitar en trabajo de los desarrolladores cuando se hace necesario generar   direfentes conexiones entre los sistemas.
 
-La aplicacion necesaria para el procesamiento de señales sera una aplicaicon de tiempo real 
+La aplicacion necesaria para el procesamiento de señales sera una aplicaicon de tiempo real, por lo que el diseño del cluster incluira un cluster de tipo de alta disponibilidad y escalabilidad para que se puedan agrear nuevos cluster si el trabajo aumentara.
 
-<a name="id9"></a>
+<a name="id8"></a>
 # JUSTIFICACION
 
 La razon por la que se deberia implementar un cluster que permita el procesamiento de señales digitales dentro de la industria de los circuitos electronicos es la siguiente:
+
+El procesamiento de señales digitales ha sido una tarea que se distingue por su alto requerimiento de procesamiento de datos, lo que lleva al diseño de la implementacion de un sistema cluster.
 
 
 
