@@ -112,6 +112,11 @@ Las diferentes aplicaciones que se puede ejecutar a gran escale en el procesamie
 * Procesamiento de video digital
 * Procesamiendo de datos digitales
 
+
+## Arquitectura de comuniciacion
+
+![image](https://user-images.githubusercontent.com/50051312/59375910-bcecab00-8d14-11e9-82b9-93fda8cb36b8.png)
+
 <a name="id9"></a>
 # CONCLUSIOENS Y RECOMENDACIONES
 
