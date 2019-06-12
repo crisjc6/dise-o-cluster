@@ -48,6 +48,25 @@ Nodo conocido como cualquier servidor que puede formar parte del cluster tienes 
 
 <a name="id3"></a>
 # CONEXIONES DE RED
+Todos los nodos deben estar conectados entre para ello se requiere una conexion de red para esta diseño de cluster se requerirá de un sistema del tipo  GigabitEthernet (1/10Gbps)  ya que es la mas utilizada actualmente. presentando un mayor rendimiento en los clusteres 
+
+<a name="id4"></a>
+# AlMACENAMIENTO 
+
+Este puede interno o externo con las diferentes tecnologias.
+
+* IDE ATA de hasta 166M/s
+* SATA de hasta 600 M/s
+* SCSI de hasta 640 M/s
+
+<a name="id6"></a>
+# SISTEMAS OPERATIVOS
+
+Los sistemas operativos a utilizar deben soportar el manejo de hilos, open sourse para este diseño de cluster se podra elegir entre las distribuiones de linux ya que permite tener un soporte multiproceso y multiusuario. para gestion en GNU/linux existe **conga** es una herramienta que me permite realizar la gestion de los nodos del cluster.
+
+
+<a name="id7"></a>
+# AMBIENTE DE PROGRAMACION
 
 
 
