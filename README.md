@@ -24,7 +24,7 @@ Implementar un diseño cluster para la insdustria de los circuitos electronicos
 
 <a name="id1"></a>
 
-# TEMA PROYECTO
+# TEMA 
 
 Implementar un diseño cluster para la insdustria de los circuitos electronicos
 
