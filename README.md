@@ -38,3 +38,10 @@ Diseño de cluster para el procesamiento de señales digitales en la electronica
 ### Señales digitales
 dentro de los circuitos electricos se tiene el procesamiento de señales digitales
 
+https://es.slideshare.net/Doyler83/componentes-de-un-clster
+
+http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2227-18992015000500002
+
+http://repositorio.utp.edu.co/dspace/bitstream/handle/11059/8945/T005.8%20M539.pdf?sequence=1&isAllowed=y
+
+http://repositorio.puce.edu.ec/bitstream/handle/22000/9583/Disertacion_de_grado_Gabriel_Andrade.pdf?sequence=3&isAllowed=y
