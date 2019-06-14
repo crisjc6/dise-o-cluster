@@ -1,3 +1,6 @@
+# Archivos 
+[pratica 2 multiprocesamientp](https://drive.google.com/file/d/1ZUuuOfs_rxR7GY-4ojzscjPFJnk9R3bR/view?usp=sharing)
+
 # Diseño de cluster
 
 **By** Cristhian Jumbo
