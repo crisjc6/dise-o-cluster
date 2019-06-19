@@ -49,7 +49,10 @@ la referencia actual para la cual vale la pena preparar un acceso más rápido p
 Además del uso compartido falso o false-sharing es un patrón de uso que puede reducir el rendimiento de cachés distribuidas 
   con coherencia en los bloques de recurso de tamaño más pequeño gestionado por el mecanismo de caché.
   
-  
+ ### Tabla 1
+ 
+ ![image](https://user-images.githubusercontent.com/50051312/59788003-56c1d400-9290-11e9-8643-735cc4b33451.png)
+
   
 ### Conclusión 
 El conjunto de aplicaciones SPLASH-2 está diseñado para proporcionar
@@ -58,3 +61,9 @@ Sin embargo, realizar dicha evaluación bien es una tarea difícil debido a que
 a la gran cantidad de grados de libertad que interactúan. Por ejemplo,
 muchos parámetros del sistema de memoria, como el tamaño del caché, la asociatividad y el tamaño de la línea, pueden impactar cuantitativa y cualitativamente en la recuperación.
 Los resultados de un estudio, al igual que los parámetros de aplicación y el número de procesadores utilizados.
+
+
+### Enlaces 
+
+ [The SPLASH-2 Programs: Characterization
+and Methodological Considerations](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.2356&rep=rep1&type=pdf)
