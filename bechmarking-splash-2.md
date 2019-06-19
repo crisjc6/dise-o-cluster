@@ -2,7 +2,12 @@
 
 # CONTENIDO
 
-* [](#id1)
+* [Objetivos](#id1)
+* [Características](#id2)
+* [Tabla de entradas](#id3)
+* [Conclusiones](#id4)
+* [Enlaces](#id5)
+
 
 El objetivo de la actualización de splash a splash-2 es la siguiente:
 
